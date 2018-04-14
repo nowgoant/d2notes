@@ -3,6 +3,7 @@
 ## About
 
 * [简介](README.md)
+* [招聘](zhao-pin.md)
 
 ## 得到
 
